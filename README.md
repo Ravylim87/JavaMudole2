@@ -17,8 +17,8 @@ You have to make sure that Java is downloaded and installed on the computer you 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+list of things that improve, and add in the future.
 
-- add more items to the list 
-- save the people to the list and they can view thier previouse activities 
--add more to the program: list of adventure, list of game, list of resturant, etc. 
+- Add more items to the list.
+- Add the individuals to the list so that they can view their previous activities.
+- Add more to the program: a list of adventures, a list of games, a list of restaurants, etc.
